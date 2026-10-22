@@ -710,3 +710,34 @@ tr:last-child td { border-bottom: none; }
 .ecosistema .eco-cap { font-weight: 600; color: var(--texto, #e8e6df); opacity: .7; }
 .ecosistema a { color: var(--acento, #c9a35c); text-decoration: none; }
 .ecosistema a:hover { text-decoration: underline; }
+
+/* ---------- Modo de distribución ---------- */
+.ficha-bloqueada {
+  max-width: 640px;
+  margin: 28px auto 10px;
+  padding: 30px 26px;
+  text-align: center;
+  background: linear-gradient(180deg, var(--panel), rgba(21,28,56,.6));
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+}
+.ficha-bloqueada-icono { font-size: 2rem; line-height: 1; margin-bottom: 10px; }
+.ficha-bloqueada h3 { margin: 0 0 8px; color: var(--acento); font-size: 1.2rem; }
+.ficha-bloqueada-lead { margin: 0 0 14px; font-size: 1.12rem; font-weight: 600; color: var(--texto); }
+.ficha-bloqueada p { margin: 0 0 10px; color: var(--texto2); }
+.ficha-bloqueada a { color: var(--acento); text-decoration: none; }
+.ficha-bloqueada a:hover { text-decoration: underline; }
+.aviso-salud {
+  max-width: 760px;
+  margin: 14px auto;
+  padding: 12px 16px;
+  border-left: 3px solid var(--acento);
+  background: rgba(201,163,92,.08);
+  border-radius: 6px;
+  color: var(--texto2);
+  font-size: .9rem;
+  line-height: 1.55;
+  text-align: left;
+}
+.aviso-salud strong { color: var(--texto); }
+.chip.bloqueado { opacity: .55; }

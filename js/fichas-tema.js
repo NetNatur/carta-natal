@@ -13,6 +13,7 @@ import { Body } from './vendor/dist/index.js';
 import { NOMBRES_SIGNOS } from './carta.js';
 import { terminoDe } from './terminos.js';
 import { duracionVida } from './divisores.js';
+import { MODO, TEMA_GRATUITO, temaBloqueado, placeholderTema, AVISO_SALUD } from './distribucion.js';
 
 // ---------- Constantes ----------
 const REGENTES = {
@@ -1119,7 +1120,7 @@ const TEMAS = [
 // ============================================================
 //  RENDER
 // ============================================================
-let temaActivoId = 'salud';
+let temaActivoId = MODO === 'gratuito' ? TEMA_GRATUITO : 'salud';
 let ultimoRender = null;
 
 // Tema inicial desde la URL (?tema=riqueza), como ?orientacion=casas en la app
@@ -1130,55 +1131,64 @@ let ultimoRender = null;
   } catch { /* sin location (Node/test) */ }
 })();
 
+function conectarListener(contenedor) {
+  if (contenedor._fichasListener) return;
+  contenedor.addEventListener('click', (ev) => {
+    const chip = ev.target.closest('.chip[data-tema]');
+    if (!chip || chip.classList.contains('activo')) return;
+    temaActivoId = chip.dataset.tema;
+    if (ultimoRender) renderFichasTema(ultimoRender.contenedor, ultimoRender.datos, ultimoRender.swe);
+  });
+  contenedor._fichasListener = true;
+}
+
 export function renderFichasTema(contenedor, datos, swe) {
   if (!datos || !datos.planetas || !datos.cusps) return;
   ultimoRender = { contenedor, datos, swe };
   const tema = TEMAS.find((t) => t.id === temaActivoId) || TEMAS[0];
+
+  const chips = TEMAS.map((t) => {
+    const bloq = temaBloqueado(t.id);
+    return `<button type="button" class="chip${t.id === tema.id ? ' activo' : ''}${bloq ? ' bloqueado' : ''}" data-tema="${t.id}" title="${bloq ? 'Disponible en la versión completa' : t.resumen}">${bloq ? '🔒 ' : ''}${t.glifo} ${t.nombre}</button>`;
+  }).join('');
+
+  contenedor.hidden = false;
+
+  if (temaBloqueado(tema.id)) {
+    contenedor.innerHTML = placeholderTema(tema, chips);
+    conectarListener(contenedor);
+    return;
+  }
+
   let ctx;
   try { ctx = tema.analizar(datos, swe); } catch (e) { console.error('Fichas por tema:', e); return; }
 
   const fichas = tema.fichas(ctx).filter(Boolean);
   const htmlFichas = fichas.map((f, i) => htmlFicha(f, i, i === 0)).join('');
-  const chips = TEMAS.map((t) =>
-    `<button type="button" class="chip${t.id === tema.id ? ' activo' : ''}" data-tema="${t.id}" title="${t.resumen}">${t.glifo} ${t.nombre}</button>`
-  ).join('');
-  const orden = tema.orden.map(([k, v], i) => `<li><strong>${k}:</strong> ${v}</li>`).join('');
+  const orden = tema.orden.map(([k, v]) => `<li><strong>${k}:</strong> ${v}</li>`).join('');
+  const avisoSalud = tema.id === 'salud' ? AVISO_SALUD : '';
 
-  contenedor.hidden = false;
   contenedor.innerHTML = `
     <div class="fichas-tema">
       <div class="fichas-cabecera">
         <h2>Fichas por tema</h2>
-        <p class="fichas-principio">Un tema se juzga por sus <strong>significadores</strong>, no por todos los factores de la carta. Para cada uno se aplica la triple pregunta de Morin: <em>¿qué accidente?</em> → <em>¿se dará?</em> → <em>¿con qué calidad y cantidad?</em>.</p>
+        <p class="fichas-principio">Un tema se juzga por sus <strong>significadores</strong>, no por todos los factores de la carta. Para cada uno se aplica la triple pregunta de Morin: <em>¿qué accidente?</em> · <em>¿se dará?</em> · <em>¿con qué calidad y cantidad?</em>.</p>
         <div class="chips">${chips}</div>
       </div>
-
+      ${avisoSalud}
       <div class="fichas-grid">${htmlFichas}</div>
-
       <div class="fichas-bloque-extra">
         <h3>Orden de juicio · ${tema.glifo} ${tema.nombre}</h3>
         <ol class="orden-juicio">${orden}</ol>
       </div>
-
       <div class="fichas-bloque-extra">
         <h3>Límites (parte del criterio)</h3>
         <p>${tema.limites}</p>
       </div>
-
       <div class="fichas-bloque-extra fichas-fuentes">
         <h3>Fuentes de criterio</h3>
         <p>${tema.fuentes}</p>
       </div>
     </div>`;
-
-  // Selector de temas (delegación: el contenedor persiste entre renders)
-  if (!contenedor._fichasListener) {
-    contenedor.addEventListener('click', (ev) => {
-      const chip = ev.target.closest('.chip[data-tema]');
-      if (!chip || chip.classList.contains('activo')) return;
-      temaActivoId = chip.dataset.tema;
-      if (ultimoRender) renderFichasTema(ultimoRender.contenedor, ultimoRender.datos, ultimoRender.swe);
-    });
-    contenedor._fichasListener = true;
-  }
+  conectarListener(contenedor);
 }
