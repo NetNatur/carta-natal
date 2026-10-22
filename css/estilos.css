@@ -692,3 +692,21 @@ tr:last-child td { border-bottom: none; }
 .tabla-mini { border-collapse: collapse; margin: 8px 12px; font-size: 12.5px; }
 .tabla-mini th, .tabla-mini td { border: 1px solid var(--borde); padding: 3px 8px; text-align: left; color: var(--texto2); }
 .tabla-mini th { color: var(--texto); }
+
+/* ---------- Ecosistema de proyectos ---------- */
+.ecosistema {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 6px 16px;
+  max-width: 980px;
+  margin: 28px auto 0;
+  padding: 14px 18px;
+  border-top: 1px solid var(--borde);
+  font-size: 0.8rem;
+  color: var(--texto2, #a9b0c8);
+}
+.ecosistema .eco-cap { font-weight: 600; color: var(--texto, #e8e6df); opacity: .7; }
+.ecosistema a { color: var(--acento, #c9a35c); text-decoration: none; }
+.ecosistema a:hover { text-decoration: underline; }

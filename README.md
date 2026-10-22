@@ -1,6 +1,24 @@
-# Carta Natal
+# Carta Natal Tradicional
 
 Aplicación de astrología clásica que calcula la carta natal, aspectos, partes árabes, términos, decanatos, tránsitos, revoluciones solares y prospectiva. Funciona en local, con Swiss Ephemeris en WebAssembly; no envía los datos de nacimiento a ningún servidor.
+
+
+
+## Ecosistema
+
+Carta Natal Tradicional forma parte de un conjunto de proyectos dedicados a la astrología clásica y a la espiritualidad de la naturaleza:
+
+| Proyecto | Qué es | Enlace |
+|---|---|---|
+| **Arquetypo** | Astrología clásica y tradición | <https://arquetypo.uno/> |
+| **Red Espiritual** | Comunidad hispana de espiritualidad de la naturaleza | <https://redespiritual.net/> |
+| **Wicca School** | Formación online | <https://wicca.school/> |
+| **Carta Natal Tradicional** | Esta aplicación (AGPL-3.0) | [GitHub](https://github.com/NetNatur/carta-natal) |
+| **Núcleo** | Laboratorio de técnicas astrológicas (acceso por invitación) | — |
+
+## Enfoque
+
+«Carta Natal Tradicional» no es un servicio genérico de carta natal. Trabaja con el método clásico: términos, decanatos, partes árabes, firdaria, revoluciones solares y lunares, tránsitos y prospectiva, con Swiss Ephemeris y efemérides JPL. El cálculo ocurre en el equipo del usuario.
 
 ## Licencia
 
