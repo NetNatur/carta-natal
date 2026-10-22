@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arquetypo · Proyectos</title>
+<meta name="description" content="Arquetypo: astrología clásica y tradición. Carta Natal Tradicional, Núcleo, Red Espiritual, Wicca School y El cielo vigilado.">
+<style>
+  :root {
+    --fondo: #0c1122;
+    --panel: #151c38;
+    --panel2: #10162b;
+    --borde: #2a3560;
+    --texto: #e8e6df;
+    --texto2: #a9b0c8;
+    --acento: #c9a35c;
+    --radio: 14px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background:
+      radial-gradient(1200px 600px at 50% -10%, rgba(201,163,92,.10), transparent 60%),
+      var(--fondo);
+    color: var(--texto);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 56px 22px 40px; }
+  header { text-align: center; margin-bottom: 38px; }
+  .marca {
+    margin: 0 0 8px;
+    font-size: .82rem;
+    letter-spacing: .32em;
+    text-transform: uppercase;
+    color: var(--acento);
+    font-weight: 700;
+  }
+  h1 {
+    margin: 0 0 10px;
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    font-weight: 650;
+    letter-spacing: -.02em;
+  }
+  .sub { margin: 0; color: var(--texto2); font-size: 1.02rem; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 22px 20px 18px;
+    background: linear-gradient(180deg, var(--panel), var(--panel2));
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    color: inherit;
+    text-decoration: none;
+    transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
+  }
+  a.card:hover {
+    transform: translateY(-2px);
+    border-color: var(--acento);
+    box-shadow: 0 10px 30px rgba(0,0,0,.28);
+  }
+  .card.off { opacity: .78; }
+  .tag {
+    font-size: .7rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--acento);
+    font-weight: 700;
+  }
+  h2 { margin: 0; font-size: 1.22rem; font-weight: 650; }
+  .card p { margin: 0; color: var(--texto2); font-size: .93rem; flex: 1; }
+  .cta { margin-top: 6px; font-size: .86rem; color: var(--acento); font-weight: 600; }
+  footer {
+    margin-top: 38px;
+    padding-top: 18px;
+    border-top: 1px solid var(--borde);
+    text-align: center;
+    font-size: .78rem;
+    color: var(--texto2);
+  }
+  footer a { color: var(--acento); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="marca">Arquetypo</p>
+    <h1>Astrología clásica y tradición</h1>
+    <p class="sub">Aplicaciones, comunidad y formación. Todo el cálculo, en tu equipo.</p>
+  </header>
+
+  <main class="grid">
+    <a class="card" href="https://arquetypo.uno/">
+      <span class="tag">Aplicación</span>
+      <h2>Carta Natal Tradicional</h2>
+      <p>Carta natal, términos, decanatos, partes árabes, firdaria, revoluciones solares y lunares, tránsitos y prospectiva. Swiss Ephemeris y efemérides JPL, sin enviar datos a ningún servidor.</p>
+      <span class="cta">Abrir la aplicación →</span>
+    </a>
+
+    <div class="card off">
+      <span class="tag">Laboratorio</span>
+      <h2>Núcleo</h2>
+      <p>Harmogramas, ayanamsa, todos los sistemas de casas y módulos experimentales. Acceso por invitación mientras está en pruebas.</p>
+      <span class="cta">En pruebas</span>
+    </div>
+
+    <a class="card" href="https://redespiritual.net/">
+      <span class="tag">Comunidad</span>
+      <h2>Red Espiritual</h2>
+      <p>Red hispana de espiritualidad de la naturaleza: artículos, encuentros, recursos y voces de la tradición.</p>
+      <span class="cta">Visitar Red Espiritual →</span>
+    </a>
+
+    <a class="card" href="https://wicca.school/">
+      <span class="tag">Formación</span>
+      <h2>Wicca School</h2>
+      <p>Cursos online de Reiki, Wicca y tradiciones de la naturaleza, con material propio y acompañamiento.</p>
+      <span class="cta">Entrar en Wicca School →</span>
+    </a>
+
+    <a class="card" href="https://arquetypo.uno/podcast/rss.xml">
+      <span class="tag">Podcast</span>
+      <h2>El cielo vigilado</h2>
+      <p>La astrología en el México virreinal y otras historias del cielo, en episodios breves.</p>
+      <span class="cta">Escuchar el podcast →</span>
+    </a>
+  </main>
+
+  <footer>
+    © Arquetypo · <a href="https://arquetypo.uno/aviso.html">Aviso legal y privacidad</a> ·
+    <a href="https://github.com/NetNatur/carta-natal">Código de Carta Natal en GitHub</a>
+  </footer>
+</div>
+</body>
+</html>
