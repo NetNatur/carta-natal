@@ -16,6 +16,8 @@ Carta Natal Tradicional forma parte de un conjunto de proyectos dedicados a la a
 | **Carta Natal Tradicional** | Esta aplicación (AGPL-3.0) | [GitHub](https://github.com/NetNatur/carta-natal) |
 | **Núcleo** | Laboratorio de técnicas astrológicas (acceso por invitación) | — |
 
+Página de proyectos: <https://arquetypo.uno/proyectos.html>
+
 ## Enfoque
 
 «Carta Natal Tradicional» no es un servicio genérico de carta natal. Trabaja con el método clásico: términos, decanatos, partes árabes, firdaria, revoluciones solares y lunares, tránsitos y prospectiva, con Swiss Ephemeris y efemérides JPL. El cálculo ocurre en el equipo del usuario.
