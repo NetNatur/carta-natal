@@ -1,0 +1,2368 @@
+{
+  "meta": {
+    "titulo": "Volguine — técnica de las revoluciones solares (corpus de redacción propia)",
+    "tecnica": "Comparación natal↔revolución solar: ASC/MC anuales en las casas natales, superposiciones de casas, ASC por signo y planetas de la RS por casas.",
+    "fuentes": "Técnica de Alexandre Volguine, \"La technique des révolutions solaires\" (Dervy-Livres; trad. esp. Editorial Kier). Los TEXTOS son de redacción propia (2026-08-25) basados en las significaciones clásicas; no reproducen la traducción de Kier (sustituyen al corpus literal anterior por motivos de derechos de autor).",
+    "total": 270
+  },
+  "entradas": [
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 1,
+      "texto": [
+        "Ascendente de la revolución en la casa 1 natal: El año vuelve sobre la persona misma: salud, cuerpo, presencia e iniciativa. Hay libertad de movimiento y de decisión, y los asuntos personales pasan a primer plano. Es un buen año para definir dirección propia, presentarse y emprender; el cuidado irá en no gastar la energía en puro impulso."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 2,
+      "texto": [
+        "Ascendente de la revolución en la casa 2 natal: El año gira sobre los recursos y los valores propios: dinero, posesiones y autoestima material. Las oportunidades de estabilizar la economía aparecen, y también la tentación de gastar por apariencia. Lo que se administre con orden ahora, sostiene lo demás; conviene no confundir valor personal con patrimonio."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 3,
+      "texto": [
+        "Ascendente de la revolución en la casa 3 natal: Un año de trato, estudio y movimiento: comunicaciones, escritos, gestiones, hermanos y vecinos ocupan la escena. La agenda se llena de reuniones y desplazamientos cortos. La mente está ágil y receptiva; el riesgo es la dispersión, así que conviene anotar y cerrar lo empezado."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 4,
+      "texto": [
+        "Ascendente de la revolución en la casa 4 natal: El año lleva la atención al hogar, la familia y las raíces: la vida privada, los bienes inmuebles y la figura del padre o del paterno. Puede haber mudanzas, cierres de ciclo o asuntos hereditarios. Es buen momento para asegurar las bases; la vida pública queda en segundo plano."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 5,
+      "texto": [
+        "Ascendente de la revolución en la casa 5 natal: El año se abre al amor, los hijos, la creación y el placer: el corazón manda y el riesgo seduce. Los asuntos sentimentales y los proyectos creativos piden protagonismo. Hay generosidad y ganas de disfrutar; el cuidado está en los excesos y en las apuestas apresuradas."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 6,
+      "texto": [
+        "Ascendente de la revolución en la casa 6 natal: El año se ordena en torno al trabajo, el servicio y la salud: empleo, rutinas, subordinados y el cuidado del cuerpo. Los asuntos se resuelven con método y constancia más que con brillo. Atender la salud y el descanso es la mejor inversión del año."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 7,
+      "texto": [
+        "Ascendente de la revolución en la casa 7 natal: El año pasa por el espejo de los otros: pareja, alianzas, contratos y socios. Las relaciones se activan y exigen equilibrio; lo que se pacta ahora condiciona los años siguientes. La negociación y la cortesía abren puertas que la imposición cierra."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 8,
+      "texto": [
+        "Ascendente de la revolución en la casa 8 natal: El año entra en zona de transformación: recursos compartidos, herencias, deudas, crisis y renacimientos. Lo que estaba oculto o aplazado sale a la luz para reordenarse. Las pérdidas aparentes suelen ser limpieza; lo que se renueva en profundidad queda saneado."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 9,
+      "texto": [
+        "Ascendente de la revolución en la casa 9 natal: El año ensancha el horizonte: viajes largos, estudios superiores, fe, justicia y asuntos extranjeros. La mirada se eleva y las preguntas de sentido ocupan la escena. Hay protección en lo lejano y en lo aprendido; conviene no prometer más de lo que se puede cumplir."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 10,
+      "texto": [
+        "Ascendente de la revolución en la casa 10 natal: El año pone a prueba la posición: profesión, honra, vocación y lugar en el mundo. El trabajo y la reputación son visibles, y el esfuerzo rinde a la vista. Es un año de responsabilidad pública: se asciende por obra demostrada y se cae por imprudencia."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 11,
+      "texto": [
+        "Ascendente de la revolución en la casa 11 natal: El año se apoya en las amistades y los proyectos: redes, grupos, esperanzas y aliados del futuro. Las personas que llegan abren puertas y las que se van liberan espacio. Es momento de sembrar contactos y de trabajar en equipo; los ideales piden que se les dé forma práctica."
+      ]
+    },
+    {
+      "tipo": "asc-casa-natal",
+      "casa": 12,
+      "texto": [
+        "Ascendente de la revolución en la casa 12 natal: El año pide repliegue y limpieza: interioridad, retiro, instituciones, secretos y enemigos velados. Las energías se vuelven hacia adentro y conviene resolver lo pendiente lejos del ruido. Lo que se guarda o se suelta en silencio ahora, pesa menos después."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 1,
+      "texto": [
+        "Mediocielo de la revolución en la casa 1 natal: El Mediocielo anual sobre la casa 1 natal es de los mejores emplazamientos: la voluntad y la presencia personal se alinean con el destino. El sujeto puede obrar sobre su propia vida con ventaja y dar dirección a los acontecimientos. Año de iniciativa con respaldo."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 2,
+      "texto": [
+        "Mediocielo de la revolución en la casa 2 natal: El Mediocielo en la casa 2 natal favorablemente aspectado inclina el año hacia la ganancia y la buena gestión de lo propio. Los recursos y el trabajo se conectan: el esfuerzo tiene salida económica. Conviene ordenar presupuestos y cobros."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 3,
+      "texto": [
+        "Mediocielo de la revolución en la casa 3 natal: El Mediocielo en la casa 3 natal enlaza la posición con el trato y el saber: escritos, gestiones, estudios y viajes cortos favorecen la carrera. Los hermanos o allegados participan en los asuntos de peso. Año propicio para dar a conocer el trabajo de palabra y por escrito."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 4,
+      "texto": [
+        "Mediocielo de la revolución en la casa 4 natal: El Mediocielo en la casa 4 natal lleva la cuestión al terreno de las raíces: hogar, familia, bienes inmuebles y asuntos del padre. La posición se apoya en la vida privada o en el patrimonio familiar. Buen momento para consolidar lo doméstico y lo inmobiliario."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 5,
+      "texto": [
+        "Mediocielo de la revolución en la casa 5 natal: El Mediocielo en la casa 5 natal favorece el reconocimiento por la vía del gusto y la creación: hijos, amor, arte y empresas personales ganan visibilidad. Es un buen año para mostrar lo que se hace con pasión; el riesgo calculado tiene premio."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 6,
+      "texto": [
+        "Mediocielo de la revolución en la casa 6 natal: El Mediocielo en la casa 6 natal asocia la posición al trabajo y al servicio: la carrera avanza por la vía del esfuerzo ordenado y la utilidad. El cuidado de la salud y de los colaboradores condiciona el rendimiento. Año de méritos discretos que se anotan."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 7,
+      "texto": [
+        "Mediocielo de la revolución en la casa 7 natal: El Mediocielo en la casa 7 natal sitúa el año bajo el signo de las alianzas: pareja, socios, contratos y acuerdos públicos. La posición mejora a través de otros y de lo que se pacta. La elección de con quién se une define el rumbo."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 8,
+      "texto": [
+        "Mediocielo de la revolución en la casa 8 natal: El Mediocielo en la casa 8 natal atraviesa la posición por la crisis y lo compartido: herencias, deudas, fondos ajenos y transformaciones. Hay ascensos o caídas profundas según se gestionen los recursos de otros y los propios. Año de reorganización radical."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 9,
+      "texto": [
+        "Mediocielo de la revolución en la casa 9 natal: El Mediocielo en la casa 9 natal enlaza el destino con lo lejano: estudios superiores, viajes, religión, justicia y asuntos extranjeros. La reputación crece por la vía del conocimiento y del horizonte amplio. Buen año para publicar, enseñar o tratar con el extranjero."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 10,
+      "texto": [
+        "Mediocielo de la revolución en la casa 10 natal: El Mediocielo en su casa natal redobla el acento profesional: el año gira en torno a la vocación, la honra y el lugar propio en el mundo. Hay visibilidad y responsabilidad; el esfuerzo se mide en público. Año de confirmación o de examen del rumbo."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 11,
+      "texto": [
+        "Mediocielo de la revolución en la casa 11 natal: El Mediocielo en la casa 11 natal conecta la posición con las redes y los ideales: amistades, grupos, proyectos y protección de personas influyentes. Los apoyos llegan por el trato y la participación. Buen año para alianzas de futuro y para dar forma a las esperanzas."
+      ]
+    },
+    {
+      "tipo": "mc-casa-natal",
+      "casa": 12,
+      "texto": [
+        "Mediocielo de la revolución en la casa 12 natal: El Mediocielo en la casa 12 natal es emplazamiento complejo: la carrera se cuece entre bastidores y topa con instituciones, secretos o enemigos velados. Conviene discreción, trámites con cuidado y resolver lo pendiente sin ruido. El reconocimiento llega con retraso, pero llega si la obra es sólida."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Aries",
+      "texto": [
+        "Con el Ascendente de la revolución en Aries, el año pide empuje e independencia: se comienza con decisión, aunque conviene vigilar la impaciencia y el riesgo innecesario. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Tauro",
+      "texto": [
+        "Con el Ascendente de la revolución en Tauro, el año pide estabilidad y constancia: lo que se construye despacio se sostiene, y la comodidad bien usada no es pereza. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Géminis",
+      "texto": [
+        "Con el Ascendente de la revolución en Géminis, el año pide movimiento, curiosidad y trato: abundan las noticias, los encuentros y los cambios de planes. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Cáncer",
+      "texto": [
+        "Con el Ascendente de la revolución en Cáncer, el año pide sensibilidad y arraigo: el hogar, la familia y la memoria pesan, y el ánimo va a oleadas. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Leo",
+      "texto": [
+        "Con el Ascendente de la revolución en Leo, el año pide brillo y generosidad: el orgullo bien dirigido, la autoridad y la visibilidad marcan el ritmo. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Virgo",
+      "texto": [
+        "Con el Ascendente de la revolución en Virgo, el año pide orden y atención al detalle: el trabajo fino, la salud y el análisis rinden más que la improvisación. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Libra",
+      "texto": [
+        "Con el Ascendente de la revolución en Libra, el año pide equilibrio y alianza: la estética, la justicia y la negociación suavizan lo que divide. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Escorpio",
+      "texto": [
+        "Con el Ascendente de la revolución en Escorpio, el año pide profundidad y control: las intensidades, los secretos y las crisis bien llevadas regeneran. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Sagitario",
+      "texto": [
+        "Con el Ascendente de la revolución en Sagitario, el año pide expansión y horizonte: viajes, estudios, fe y exceso de confianza conviven en la misma balanza. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Capricornio",
+      "texto": [
+        "Con el Ascendente de la revolución en Capricornio, el año pide ambición con método: la disciplina, la prudencia y el logro a largo plazo son la divisa. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Acuario",
+      "texto": [
+        "Con el Ascendente de la revolución en Acuario, el año pide originalidad y causas: los grupos, la independencia y el cambio razonado se abren paso. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "asc-signo",
+      "signo": "Piscis",
+      "texto": [
+        "Con el Ascendente de la revolución en Piscis, el año pide sensibilidad y compasión: la imaginación y la fe rinden, y conviene no disolverse en lo vago. El signo matiza el clima general del año y la manera de encararlo: conviene aprovechar sus fuerzas y vigilar sus excesos."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 1,
+      "texto": [
+        "La casa 2 de la revolución se superpone a la casa 1 natal: el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 2 cayendo sobre la casa 2 natal, el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 2 de la revolución sobre la casa natal 3 significa que el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 4,
+      "texto": [
+        "La casa 2 de la revolución se superpone a la casa 4 natal: el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 2 cayendo sobre la casa 5 natal, el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 7,
+      "texto": [
+        "La casa 2 de la revolución se superpone a la casa 7 natal: el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 2 cayendo sobre la casa 8 natal, el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 2 de la revolución sobre la casa natal 9 significa que el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 10,
+      "texto": [
+        "La casa 2 de la revolución se superpone a la casa 10 natal: el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 2 cayendo sobre la casa 11 natal, el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 2,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 2 de la revolución sobre la casa natal 12 significa que el año pone en marcha los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 1,
+      "texto": [
+        "La casa 3 de la revolución se superpone a la casa 1 natal: el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 3 cayendo sobre la casa 2 natal, el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 3 de la revolución sobre la casa natal 3 significa que el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 4,
+      "texto": [
+        "La casa 3 de la revolución se superpone a la casa 4 natal: el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 3 cayendo sobre la casa 5 natal, el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 7,
+      "texto": [
+        "La casa 3 de la revolución se superpone a la casa 7 natal: el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 3 cayendo sobre la casa 8 natal, el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 3 de la revolución sobre la casa natal 9 significa que el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 10,
+      "texto": [
+        "La casa 3 de la revolución se superpone a la casa 10 natal: el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 3 cayendo sobre la casa 11 natal, el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 3,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 3 de la revolución sobre la casa natal 12 significa que el año pone en marcha las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 1,
+      "texto": [
+        "La casa 4 de la revolución se superpone a la casa 1 natal: el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 4 de la revolución sobre la casa natal 3 significa que el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 4,
+      "texto": [
+        "La casa 4 de la revolución se superpone a la casa 4 natal: el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 4 cayendo sobre la casa 5 natal, el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 4 de la revolución sobre la casa natal 6 significa que el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 7,
+      "texto": [
+        "La casa 4 de la revolución se superpone a la casa 7 natal: el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 4 cayendo sobre la casa 8 natal, el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 4 de la revolución sobre la casa natal 9 significa que el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 10,
+      "texto": [
+        "La casa 4 de la revolución se superpone a la casa 10 natal: el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 4 cayendo sobre la casa 11 natal, el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 4,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 4 de la revolución sobre la casa natal 12 significa que el año pone en marcha la vida de hogar y familia: las bases, lo privado y el cierre de ciclos.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 1,
+      "texto": [
+        "La casa 5 de la revolución se superpone a la casa 1 natal: el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 5 cayendo sobre la casa 2 natal, el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 5 de la revolución sobre la casa natal 3 significa que el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 4,
+      "texto": [
+        "La casa 5 de la revolución se superpone a la casa 4 natal: el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 5 cayendo sobre la casa 5 natal, el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 5 de la revolución sobre la casa natal 6 significa que el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 7,
+      "texto": [
+        "La casa 5 de la revolución se superpone a la casa 7 natal: el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 5 cayendo sobre la casa 8 natal, el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 10,
+      "texto": [
+        "La casa 5 de la revolución se superpone a la casa 10 natal: el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 5 cayendo sobre la casa 11 natal, el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 5,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 5 de la revolución sobre la casa natal 12 significa que el año pone en marcha el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 1,
+      "texto": [
+        "La casa 6 de la revolución se superpone a la casa 1 natal: el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 6 cayendo sobre la casa 2 natal, el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 6 de la revolución sobre la casa natal 3 significa que el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 4,
+      "texto": [
+        "La casa 6 de la revolución se superpone a la casa 4 natal: el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 6 cayendo sobre la casa 5 natal, el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 6 de la revolución sobre la casa natal 6 significa que el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 7,
+      "texto": [
+        "La casa 6 de la revolución se superpone a la casa 7 natal: el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 6 cayendo sobre la casa 8 natal, el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 6 de la revolución sobre la casa natal 9 significa que el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 10,
+      "texto": [
+        "La casa 6 de la revolución se superpone a la casa 10 natal: el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 6 cayendo sobre la casa 11 natal, el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 6,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 6 de la revolución sobre la casa natal 12 significa que el año pone en marcha el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 1,
+      "texto": [
+        "La casa 7 de la revolución se superpone a la casa 1 natal: el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 7 de la revolución sobre la casa natal 3 significa que el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 4,
+      "texto": [
+        "La casa 7 de la revolución se superpone a la casa 4 natal: el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 7 cayendo sobre la casa 5 natal, el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 7 de la revolución sobre la casa natal 6 significa que el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 7,
+      "texto": [
+        "La casa 7 de la revolución se superpone a la casa 7 natal: el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 7 cayendo sobre la casa 8 natal, el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 7 de la revolución sobre la casa natal 9 significa que el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 10,
+      "texto": [
+        "La casa 7 de la revolución se superpone a la casa 10 natal: el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 7 cayendo sobre la casa 11 natal, el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 7,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 7 de la revolución sobre la casa natal 12 significa que el año pone en marcha la pareja y las alianzas: contratos, socios y el trato con los demás como espejo.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 1,
+      "texto": [
+        "La casa 8 de la revolución se superpone a la casa 1 natal: el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 8 cayendo sobre la casa 2 natal, el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 8 de la revolución sobre la casa natal 3 significa que el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 4,
+      "texto": [
+        "La casa 8 de la revolución se superpone a la casa 4 natal: el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 8 cayendo sobre la casa 5 natal, el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 7,
+      "texto": [
+        "La casa 8 de la revolución se superpone a la casa 7 natal: el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 8 cayendo sobre la casa 8 natal, el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 8 de la revolución sobre la casa natal 9 significa que el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 10,
+      "texto": [
+        "La casa 8 de la revolución se superpone a la casa 10 natal: el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 8 cayendo sobre la casa 11 natal, el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 8,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 8 de la revolución sobre la casa natal 12 significa que el año pone en marcha las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 1,
+      "texto": [
+        "La casa 9 de la revolución se superpone a la casa 1 natal: el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 9 cayendo sobre la casa 2 natal, el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 9 de la revolución sobre la casa natal 3 significa que el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 4,
+      "texto": [
+        "La casa 9 de la revolución se superpone a la casa 4 natal: el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 9 cayendo sobre la casa 5 natal, el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 9 de la revolución sobre la casa natal 6 significa que el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 7,
+      "texto": [
+        "La casa 9 de la revolución se superpone a la casa 7 natal: el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 9 cayendo sobre la casa 8 natal, el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 9 de la revolución sobre la casa natal 9 significa que el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 10,
+      "texto": [
+        "La casa 9 de la revolución se superpone a la casa 10 natal: el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 9 cayendo sobre la casa 11 natal, el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 9,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 9 de la revolución sobre la casa natal 12 significa que el año pone en marcha los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 1,
+      "texto": [
+        "La casa 11 de la revolución se superpone a la casa 1 natal: el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 11 cayendo sobre la casa 2 natal, el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 11 de la revolución sobre la casa natal 3 significa que el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 4,
+      "texto": [
+        "La casa 11 de la revolución se superpone a la casa 4 natal: el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 11 cayendo sobre la casa 5 natal, el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 11 de la revolución sobre la casa natal 6 significa que el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 7,
+      "texto": [
+        "La casa 11 de la revolución se superpone a la casa 7 natal: el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 11 cayendo sobre la casa 8 natal, el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 11 de la revolución sobre la casa natal 9 significa que el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 10,
+      "texto": [
+        "La casa 11 de la revolución se superpone a la casa 10 natal: el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 11 cayendo sobre la casa 11 natal, el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 11,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 11 de la revolución sobre la casa natal 12 significa que el año pone en marcha las amistades, los proyectos y las redes: las esperanzas y los apoyos del año.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 1,
+      "texto": [
+        "La casa 12 de la revolución se superpone a la casa 1 natal: el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es la persona, el cuerpo y la iniciativa: el modo de presentarse al mundo y las decisiones que comprometen el rumbo propio. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 2,
+      "texto": [
+        "Con la casa anual 12 cayendo sobre la casa 2 natal, el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es los recursos, el dinero y los valores: lo que se posee, lo que se valora y la seguridad material. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 3,
+      "texto": [
+        "La superposición de la casa 12 de la revolución sobre la casa natal 3 significa que el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es el trato cotidiano: hermanos, vecinos, estudios, escritos, gestiones y desplazamientos cortos. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 4,
+      "texto": [
+        "La casa 12 de la revolución se superpone a la casa 4 natal: el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es el hogar, la familia y las raíces: la vida privada, la figura del padre o del jefe de la casa, y el final de los asuntos. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 5,
+      "texto": [
+        "Con la casa anual 12 cayendo sobre la casa 5 natal, el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es el amor, los hijos, la creación y el juego: los placeres, el riesgo y aquello que se hace por gusto. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 6,
+      "texto": [
+        "La superposición de la casa 12 de la revolución sobre la casa natal 6 significa que el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es el trabajo, el servicio y la salud: las rutinas, los subordinados y el cuidado del cuerpo. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 7,
+      "texto": [
+        "La casa 12 de la revolución se superpone a la casa 7 natal: el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es la pareja, las alianzas y los contratos: los socios y el terreno de lo abiertamente opuesto. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 8,
+      "texto": [
+        "Con la casa anual 12 cayendo sobre la casa 8 natal, el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es lo ajeno y lo compartido: herencias, deudas, crisis y transformaciones profundas. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 9,
+      "texto": [
+        "La superposición de la casa 12 de la revolución sobre la casa natal 9 significa que el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es los viajes largos, los estudios superiores, la fe, la justicia y todo lo que ensancha el horizonte. Conviene seguir de cerca los asuntos de la casa natal durante el tiempo en que esta casa anual está activa."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 10,
+      "texto": [
+        "La casa 12 de la revolución se superpone a la casa 10 natal: el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es la profesión, la honra y la posición: la vocación, la autoridad y la proyección pública. Es buen momento para atender lo señalado por la casa natal: lo que se haga ahí ahora deja huella en el año."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 11,
+      "texto": [
+        "Con la casa anual 12 cayendo sobre la casa 11 natal, el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es las amistades, los proyectos y las esperanzas: los grupos, las redes y los aliados del futuro. Las cuestiones de la casa natal demandan atención: la casa anual las pone en movimiento."
+      ]
+    },
+    {
+      "tipo": "superposicion",
+      "anual": 12,
+      "natal": 12,
+      "texto": [
+        "La superposición de la casa 12 de la revolución sobre la casa natal 12 significa que el año pone en marcha la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna.",
+        "El terreno donde se manifiesta es la interioridad y lo oculto: el retiro, los hospitales, los enemigos velados y la disolución de lo que sobra. El año invita a trabajar conscientemente el terreno de la casa natal indicado."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 1,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 2,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 3,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 4,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 5,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 6,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 7,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 8,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 9,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 10,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 11,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Sol",
+      "casa": 12,
+      "texto": [
+        "El Sol activa la vitalidad, la voluntad y el deseo de reconocimiento: las iniciativas personales piden luz y protagonismo.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 1,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 2,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 3,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 4,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 5,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 6,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 7,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 8,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 9,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 10,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 11,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Luna",
+      "casa": 12,
+      "texto": [
+        "La Luna trae movimiento y sensibilidad: los estados de ánimo, la familia, el público y los hábitos dominan el ritmo del año.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 1,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 2,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 3,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 4,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 5,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 6,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 7,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 8,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 9,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 10,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 11,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Mercurio",
+      "casa": 12,
+      "texto": [
+        "Mercurio anima el trato, el estudio y la gestión: documentos, conversaciones, viajes cortos y todo lo que requiere ingenio.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 1,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 2,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 3,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 4,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 5,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 6,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 7,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 8,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 9,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 10,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 11,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Venus",
+      "casa": 12,
+      "texto": [
+        "Venus favorece los afectos, las alianzas y los recursos: la armonía, el arte, el dinero y el trato amable ganan peso.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 1,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 2,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 3,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 4,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 5,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 6,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 7,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 8,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 9,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 10,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 11,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Marte",
+      "casa": 12,
+      "texto": [
+        "Marte impone acción y esfuerzo: la audacia rinde, pero la prisa, las disputas y el desgaste exigen temple.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 1,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 2,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 3,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 4,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 5,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 6,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 7,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 8,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 9,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 10,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 11,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Júpiter",
+      "casa": 12,
+      "texto": [
+        "Júpiter expande y protege: el éxito, la fe, los viajes y el beneficio crecen con la confianza y la medida.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 1,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 2,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 3,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 4,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 5,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 6,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 7,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 8,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 9,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 10,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 11,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Saturno",
+      "casa": 12,
+      "texto": [
+        "Saturno estructura y prueba: la responsabilidad, la paciencia y el trabajo bien hecho sostienen el año, mientras los límites enseñan.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 1,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 2,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 3,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 4,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 5,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 6,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 7,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 8,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 9,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 10,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 11,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Urano",
+      "casa": 12,
+      "texto": [
+        "Urano altera e independiza: los cambios bruscos, la inventiva y la libertad rompen lo estancado.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 1,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 2,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 3,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 4,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 5,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 6,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 7,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 8,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 9,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 10,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 11,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Neptuno",
+      "casa": 12,
+      "texto": [
+        "Neptuno disuelve o inspira: la imaginación, la compasión y la fe se avivan, y conviene vigilar la confusión y el engaño.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 1,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 1 de la revolución (la persona y la iniciativa, término del Ascendente): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 2,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 2 de la revolución (los asuntos del dinero y de lo propio: lo que se gana, se administra y se valora durante el año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 3,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 3 de la revolución (las comunicaciones y el movimiento: estudios breves, documentos, trato cercano y desplazamientos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 4,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 4 de la revolución (la vida de hogar y familia: las bases, lo privado y el cierre de ciclos): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 5,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 5 de la revolución (el amor, los hijos, la creación y el riesgo: los placeres y lo que se emprende por gusto): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 6,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 6 de la revolución (el trabajo, el servicio y la salud: las ocupaciones diarias y el cuidado del cuerpo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 7,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 7 de la revolución (la pareja y las alianzas: contratos, socios y el trato con los demás como espejo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 8,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 8 de la revolución (las finanzas compartidas y las crisis: herencias, deudas, transformaciones y lo que se renueva en profundidad): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 9,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 9 de la revolución (los viajes, los estudios superiores, la fe y los asuntos lejanos: el horizonte del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 10,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 10 de la revolución (la posición y la profesión: la honra, la vocación y el lugar que se ocupa en el mundo): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 11,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 11 de la revolución (las amistades, los proyectos y las redes: las esperanzas y los apoyos del año): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    },
+    {
+      "tipo": "planeta-casa",
+      "planeta": "Plutón",
+      "casa": 12,
+      "texto": [
+        "Plutón transforma en profundidad: las crisis regeneran, el poder se mueve y lo caduco cae para dejar sitio a lo nuevo.",
+        "Cae en la casa 12 de la revolución (la interioridad y lo retirado: el descanso, los secretos, las instituciones y la limpieza interna): el planeta se expresa a través de estos asuntos y les imprime su carácter."
+      ]
+    }
+  ]
+}

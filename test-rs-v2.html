@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>test rs v2</title>
+<link rel="stylesheet" href="css/estilos.css">
+<style>#zona{max-width:1200px;margin:0 auto;padding:10px}#marca{color:#fff;background:#333;padding:4px 8px;font-family:monospace;font-size:12px}</style>
+<script>
+window.__etapa = 'inicio';
+window.addEventListener('error', function (e) {
+  window.__etapa = 'ERROR: ' + e.message + ' @ ' + (e.filename || '') + ':' + e.lineno;
+  var m = document.getElementById('marca'); if (m) m.textContent = window.__etapa;
+});
+window.addEventListener('unhandledrejection', function (e) {
+  var r = e.reason || {};
+  window.__etapa = 'REJECT: ' + (r.stack || r.message || String(r));
+  var m = document.getElementById('marca'); if (m) m.textContent = window.__etapa;
+});
+</script>
+</head>
+<body>
+<div id="marca">etapa: inicio</div>
+<div id="zona"></div>
+<script type="module">
+var setMarca = function (s) { window.__etapa = s; document.getElementById('marca').textContent = 'etapa: ' + s; };
+try {
+  import('./js/vendor/dist/index.js').then(async function (V) {
+    try {
+      setMarca('vendor ok');
+      const swe = await V.createSwissEph();
+      const S = await import('./js/vendor/dist/ephemeris/sources.js');
+      await swe.loadEphemeris(new S.FetchEphemeris({ baseUrl: 'datos/ephe' }), { fromYear: 2025, toYear: 2027, kinds: ['planets', 'moon'] });
+      setMarca('swe ok');
+      const jdNatal = swe.julianDay(1957, 4, 30, 19 + 23 / 60 + 23 / 3600 - 1, V.Calendar.Gregorian); // huso +1
+      const hN = swe.houses(jdNatal, 40.4167, -3.7, V.HouseSystem.Placidus);
+      const C = [['Sol', V.Body.Sun], ['Luna', V.Body.Moon], ['Mercurio', V.Body.Mercury], ['Venus', V.Body.Venus], ['Marte', V.Body.Mars], ['Júpiter', V.Body.Jupiter], ['Saturno', V.Body.Saturn], ['Urano', V.Body.Uranus], ['Neptuno', V.Body.Neptune], ['Plutón', V.Body.Pluto]];
+      const datos = {
+        nombre: 'Arturo',
+        planetas: C.map(([nombre, body]) => ({ nombre, lon: swe.calcWithSign(jdNatal, body, { flags: V.Flag.Speed }).longitude, glifo: '', retro: false })),
+        cusps: hN.cusps, asc: hN.ascendant, mc: hN.midheaven, jd: jdNatal, lat: 40.4167, lon: -3.7,
+      };
+      const M = await import('./js/revolucion-solar.js');
+      setMarca('modulo rs ok');
+      M.renderRevolucionSolar(document.getElementById('zona'), datos, swe);
+      setMarca('render llamado');
+      setTimeout(function () { setMarca('final'); }, 6000);
+    } catch (e) {
+      window.__etapa = 'ERR interno: ' + (e.stack || e.message || e);
+      document.getElementById('marca').textContent = window.__etapa;
+    }
+  }).catch(function (e) {
+    window.__etapa = 'ERR import: ' + (e.stack || e.message || e);
+    document.getElementById('marca').textContent = window.__etapa;
+  });
+} catch (e) {
+  window.__etapa = 'ERR sync: ' + (e.stack || e.message || e);
+  document.getElementById('marca').textContent = window.__etapa;
+}
+</script>
+</body>
+</html>

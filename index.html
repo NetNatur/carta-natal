@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' data: blob:">
+<title>Carta Natal — Swiss Ephemeris</title>
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<header class="cabecera">
+  <h1>✶ Carta Natal</h1>
+  <p class="subtitulo">Astrología tradicional · Swiss Ephemeris 2.10.03 · efemérides JPL (DE441)</p>
+</header>
+
+<main class="columnas">
+
+  <!-- ============ ENTRADA DE DATOS ============ -->
+  <section class="panel panel-datos" aria-label="Datos de la carta">
+    <h2>Datos del nacimiento</h2>
+
+    <div class="campo">
+      <label for="nombre">Nombre (opcional)</label>
+      <input id="nombre" type="text" placeholder="Nombre de la persona">
+    </div>
+
+    <fieldset>
+      <legend>Fecha</legend>
+      <div class="fila">
+        <div class="campo mini"><label for="dia">Día</label><input id="dia" type="number" min="1" max="31" value="12"></div>
+        <div class="campo mini"><label for="mes">Mes</label><input id="mes" type="number" min="1" max="12" value="8"></div>
+        <div class="campo mini"><label for="anio">Año</label><input id="anio" type="number" value="1990"></div>
+        <div class="campo mini check-ac"><label for="ac">a.C.</label><input id="ac" type="checkbox"></div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Hora local</legend>
+      <div class="fila">
+        <div class="campo mini"><label for="hora">Hora</label><input id="hora" type="number" min="0" max="23" value="12"></div>
+        <div class="campo mini"><label for="minuto">Minuto</label><input id="minuto" type="number" min="0" max="59" value="0"></div>
+        <label class="check"><input id="hora-desconocida" type="checkbox"> Hora desconocida (mediodía)</label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Lugar</legend>
+      <div class="campo">
+        <label for="lugar">Buscar ciudad (69.000+ en base local)</label>
+        <input id="lugar" type="text" placeholder="Escribe una ciudad…" autocomplete="off">
+        <ul id="sugerencias" class="sugerencias" hidden></ul>
+      </div>
+      <div class="fila">
+        <div class="campo"><label for="lat">Latitud</label><input id="lat" type="number" step="0.0001" value="40.4168"></div>
+        <div class="campo"><label for="lon">Longitud</label><input id="lon" type="number" step="0.0001" value="-3.7038"></div>
+      </div>
+      <div class="fila">
+        <div class="campo"><label for="zona-info" id="zona-info">Zona: Europe/Madrid</label></div>
+        <label class="check"><input id="utc-manual" type="checkbox"> Ajuste manual UTC</label>
+      </div>
+      <div class="campo" id="fila-utc" hidden>
+        <label for="utc">Diferencia UTC (horas, p. ej. +1)</label>
+        <input id="utc" type="number" step="0.5" min="-12" max="14" value="1">
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Opciones de cálculo</legend>
+      <div class="campo">
+        <label for="sistema">Sistema de casas</label>
+        <select id="sistema">
+          <option value="P" selected>Placidus</option>
+          <option value="W">Whole Sign (signos enteros)</option>
+          <option value="K">Koch</option>
+          <option value="R">Regiomontanus</option>
+          <option value="C">Campanus</option>
+          <option value="A">Equal (iguales)</option>
+          <option value="O">Porfileo</option>
+          <option value="B">Alcabitius</option>
+        </select>
+      </div>
+      <div class="campo">
+        <label for="orbes">Orbes de aspectos</label>
+        <select id="orbes">
+          <option value="trad" selected>Tradicional (moieties)</option>
+          <option value="modern">Moderno</option>
+          <option value="tight">Estricto</option>
+        </select>
+      </div>
+      <div class="campo">
+        <label for="orientacion">Orientación del gráfico</label>
+        <select id="orientacion">
+          <option value="zodiacal" selected>Zodiacal (0° Aries a la izquierda)</option>
+          <option value="casas">Casas (Ascendente a la izquierda)</option>
+        </select>
+      </div>
+      <div class="campo">
+        <label>Cuerpos adicionales</label>
+        <div class="checks">
+          <label class="check"><input type="checkbox" data-extra="chiron"> Quirón</label>
+          <label class="check"><input type="checkbox" data-extra="ceres"> Ceres</label>
+          <label class="check"><input type="checkbox" data-extra="pallas"> Palas</label>
+          <label class="check"><input type="checkbox" data-extra="juno"> Juno</label>
+          <label class="check"><input type="checkbox" data-extra="vesta"> Vesta</label>
+        </div>
+        <p class="nota">Nodo Norte, Lilith y Fortuna se incluyen siempre.</p>
+      </div>
+    </fieldset>
+
+    <div class="acciones">
+      <button id="calcular" class="boton-primario">Calcular carta</button>
+      <button id="ejemplo" class="boton-secundario">Ahora</button>
+    </div>
+    <div class="campo" style="margin-top:8px">
+      <label for="carta-prueba">Casos famosos</label>
+      <select id="carta-prueba">
+        <option value="">- Elegir un caso -</option>
+        <option value="p1">John Lennon — 09/10/1940 18:30</option>
+        <option value="p2">Marie Curie — 07/11/1867 22:15</option>
+      </select>
+    </div>
+  </section>
+
+  <!-- ============ RESULTADO ============ -->
+  <section class="panel panel-resultado">
+    <div id="estado" class="estado" role="status">Cargando motor de cálculo…</div>
+    <div id="resumen" class="resumen" hidden></div>
+
+    <nav class="pestanas" id="pestanas" hidden aria-label="Secciones del resultado">
+      <button type="button" class="pestana activa" data-pestana="carta">Carta</button>
+      <button type="button" class="pestana" data-pestana="interpretacion">Interpretación</button>
+      <button type="button" class="pestana" data-pestana="temas">Temas</button>
+      <button type="button" class="pestana" data-pestana="prospectiva">Prospectiva</button>
+      <button type="button" class="pestana" data-pestana="transitos">Tránsitos</button>
+      <button type="button" class="pestana" data-pestana="revolucion">Revolución Solar</button>
+      <button type="button" class="pestana" data-pestana="firdaria">Firdaria</button>
+      <button type="button" class="pestana" data-pestana="ayuda">Ayuda</button>
+    </nav>
+
+    <section class="panel-pestana activa" id="pestana-carta" aria-label="Carta">
+      <div class="rueda"><canvas id="rueda"></canvas></div>
+      <div class="tablas-grid">
+        <div class="tabla-caja">
+          <h3>Posiciones</h3>
+          <table id="tabla-posiciones">
+            <thead><tr><th></th><th>Cuerpo</th><th>Posición</th><th>Término</th><th>Casa</th><th></th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="tabla-caja">
+          <h3>Casas</h3>
+          <table id="tabla-casas">
+            <thead><tr><th>Casa</th><th>Cúspide</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="tabla-caja">
+          <h3>Aspectos</h3>
+          <table id="tabla-aspectos">
+            <thead><tr><th>Aspecto</th><th>Planetas</th><th>Orbe</th><th>Estado</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+      <div id="detalles" class="detalles" hidden></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-interpretacion" hidden aria-label="Interpretación">
+      <div id="interpretacion" class="interpretacion"></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-temas" hidden aria-label="Temas">
+      <div id="fichas-tema"></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-prospectiva" hidden aria-label="Prospectiva">
+      <div id="prospectiva"></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-transitos" hidden aria-label="Tránsitos">
+      <div id="transitos"></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-revolucion" hidden aria-label="Revolución Solar">
+      <div id="revolucion-solar"></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-firdaria" hidden aria-label="Firdaria">
+      <div id="firdaria"></div>
+    </section>
+
+    <section class="panel-pestana" id="pestana-ayuda" hidden aria-label="Ayuda">
+      <div id="ayuda"></div>
+    </section>
+  </section>
+
+</main>
+
+<footer class="pie">
+  Motor: Swiss Ephemeris 2.10.03 (© Astrodienst AG) compilado a WebAssembly · efemérides JPL del equipo · Cálculo local, sin Internet<br>
+  Textos de interpretación © Arturo Mata (con Sinesio Rodenas y Jesús Ripero) — obra registrada, prohibida la reproducción sin autorización<br>
+  <span class="pie-licencia">Licencia del contenido: CC BY-NC-ND 4.0 · <a href="aviso.html" target="_blank" rel="noopener">Aviso legal y privacidad</a></span>
+</footer>
+
+<div id="aviso-cookies" class="aviso-cookies" hidden role="dialog" aria-label="Aviso de privacidad">
+  <p>Esta web <strong>no utiliza cookies de seguimiento ni recopila datos personales</strong>: todo el cálculo ocurre en tu navegador y no se envía nada a internet. Solo se guarda en tu dispositivo la preferencia de este aviso.</p>
+  <button type="button" id="aviso-cookies-ok" class="boton-aviso">Entendido</button>
+</div>
+
+<script>
+// Aviso de privacidad: informativo (la app no usa cookies de seguimiento).
+// Guarda la preferencia en localStorage (no es una cookie); si el almacenamiento
+// está bloqueado, el aviso se oculta al menos durante la sesión.
+// El enlace «Aviso legal y privacidad» abre la página independiente aviso.html.
+(function () {
+  var banner = document.getElementById('aviso-cookies');
+  var btnBanner = document.getElementById('aviso-cookies-ok');
+  var visto = false;
+  try { visto = localStorage.getItem('aviso-cookies-visto') === '1'; } catch (e) {}
+  banner.hidden = visto;
+  if (btnBanner) btnBanner.addEventListener('click', function () {
+    try { localStorage.setItem('aviso-cookies-visto', '1'); } catch (e) {}
+    banner.hidden = true;
+  });
+})();
+</script>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

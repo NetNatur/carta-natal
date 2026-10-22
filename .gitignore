@@ -1,0 +1,18 @@
+node_modules/
+server.exe
+*.log
+private/
+datos/ephe/
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Capturas y backups locales
+captura-*.png
+*.bak-casos
+
+# Notas de despliegue (pueden contener rutas privadas)
+despliegue.md
+
+# Backups locales
+*.bak*

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aviso legal y privacidad · Carta Natal</title>
+<link rel="stylesheet" href="css/estilos.css">
+<style>
+  body.documento {
+    background: var(--fondo, #14100a);
+    margin: 0;
+    padding: 24px 16px;
+  }
+  .aviso-hoja {
+    max-width: 720px;
+    margin: 0 auto;
+    background: var(--panel);
+    border: 1px solid var(--acento);
+    border-radius: 12px;
+    padding: 28px 34px;
+  }
+  .aviso-hoja h1 {
+    font-size: 1.35rem;
+    margin: 0 0 4px;
+    color: var(--texto);
+  }
+  .aviso-hoja .aviso-meta {
+    font-size: 0.82rem;
+    color: var(--texto2);
+    margin: 0 0 18px;
+  }
+  .aviso-hoja h2 {
+    font-size: 1rem;
+    color: var(--acento);
+    margin: 22px 0 8px;
+  }
+  .aviso-hoja p, .aviso-hoja li {
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: var(--texto2);
+    margin: 0 0 10px;
+  }
+  .aviso-hoja ul { padding-left: 20px; margin: 0 0 10px; }
+  .aviso-hoja strong { color: var(--texto); }
+  .aviso-hoja code { font-size: 0.85rem; }
+  .aviso-volver {
+    margin-top: 26px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .aviso-volver a {
+    color: var(--acento);
+    text-decoration: none;
+    border: 1px solid var(--acento);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 0.9rem;
+  }
+  .aviso-volver a:hover { filter: brightness(1.2); }
+  @media (max-width: 520px) {
+    .aviso-hoja { padding: 20px 18px; }
+  }
+</style>
+</head>
+<body class="documento">
+<main class="aviso-hoja">
+  <h1>Aviso legal y privacidad</h1>
+  <p class="aviso-meta">Carta Natal · Manual de interpretación astrológica tradicional · Actualizado: 1 de septiembre de 2026</p>
+
+  <h2>1. Finalidad de esta web</h2>
+  <p>Esta aplicación tiene <strong>fines divulgativos y educativos</strong>. La astrología
+  tradicional es un arte de interpretación simbólica: nada de lo aquí mostrado constituye
+  diagnóstico médico, psicológico, financiero ni legal. Las decisiones importantes se toman
+  con profesionales cualificados.</p>
+
+  <h2>2. Textos y contenido</h2>
+  <p>Textos de interpretación <strong>© Arturo Mata</strong> (con Sinesio Rodenas y Jesús Ripero),
+  obra registrada. Licencia del contenido: <strong>CC BY-NC-ND 4.0</strong> — se permite compartir
+  con atribución, sin uso comercial ni obras derivadas. La reproducción total o parcial sin
+  autorización expresa está prohibida.</p>
+  <p>Las doctrinas y técnicas astrológicas citadas (método de Morin, atacires según Aben Ragel
+  y la escuela caldea, firdaria de Abu Ma'shar, comparación natal-revolución según Volguine,
+  tránsitos según Antarès) se atribuyen como técnica; las interpretaciones son de redacción
+  propia de esta obra.</p>
+
+  <h2>3. Software y datos</h2>
+  <ul>
+    <li><strong>Swiss Ephemeris 2.10.03</strong> (© Astrodienst AG): uso no comercial gratuito;
+        el paquete WebAssembly se distribuye bajo AGPL-3.0. Para uso comercial se requiere
+        licencia de Astrodienst (astro.com/swisseph).</li>
+    <li><strong>Efemérides .se1</strong> (JPL DE441): propiedad de Astrodienst, redistribuidas
+        con el equipo.</li>
+    <li><strong>Ciudades</strong>: GeoNames (CC-BY 4.0), dump cities5000.</li>
+  </ul>
+
+  <h2>4. Privacidad</h2>
+  <p>Esta web <strong>no utiliza cookies de seguimiento ni recopila datos personales</strong>:
+  todo el cálculo ocurre en tu navegador y no se envía nada a internet. Solo se guarda en tu
+  dispositivo la preferencia del aviso de primera visita (<code>localStorage</code>, no es una
+  cookie).</p>
+  <p>Los datos que introduces para calcular una carta (fecha, hora, lugar) se usan únicamente
+  en tu sesión y no se almacenan en ningún servidor.</p>
+
+  <div class="aviso-volver">
+    <a href="index.html">Volver a la aplicación</a>
+    <a href="#" onclick="window.close(); return false;">Cerrar esta pestaña</a>
+  </div>
+</main>
+</body>
+</html>
